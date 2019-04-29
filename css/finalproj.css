@@ -1,0 +1,114 @@
+body{
+    background-color: #221E1D;
+    color: #121f1f;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+}
+
+
+.fullborder{
+    border: black solid thin;
+}
+
+#wrapper {
+    background-color: #E4e4e4;
+    height: 945px;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header {
+    background-color: #110c11;
+    outline: 1px solid #000;
+    outline-offset: -4px;
+    height: 100px;
+    line-height: 100px;
+
+}
+#header h1{
+    font-size: 42px;
+    line-height: 65px;
+    padding-left: 100px;
+}
+#header li {
+    display: inline
+}
+
+#header ul {
+    margin: 0px;
+    float: right;
+    padding-right: 31px;
+}
+
+#header h2 {
+    font-size: 33px;
+    line-height: 52px;
+}
+#content {
+    height: 780px;
+    padding-left: 24px;
+    padding-right: 24px;
+    width: 541px;
+    float: left;
+    outline: 1px solid #000;
+    outline-offset: -4px;
+}
+
+#content h1{
+    font-size: 42px;
+    line-height: 55px;
+
+}
+
+#content h2{
+    font-size: 33px;
+    line-height: 48px;
+}
+
+#content h3{
+    font-size: 26px;
+    line-height: 36px;
+}
+
+#content h4{
+    font-size: 42px;
+    line-height: 65px;
+}
+
+#content h5{
+    font-size: 20px;
+    line-height: 33px;
+}
+
+#content h6{
+
+}
+
+#sidebar {
+    width: 319px;
+    height: 780px;
+    float: left;
+    font-size: 16px;
+    line-height: 27px;
+    padding-left: 24px;
+    padding-right: 24px;
+    outline: 1px solid #000;
+    outline-offset: -4px;
+}
+
+#sidebar h1{
+    font-size: 16px;
+    line-height: 27px;
+}
+
+#footer{
+    background-color: #110c11;
+    color: white;
+    outline: 1px solid #000;
+    outline-offset: -4px;
+    font-size: 16px;
+    line-height: 27px;
+    clear: both;
+}
+
