@@ -26,11 +26,13 @@ body{
     line-height: 100px;
 
 }
+
 #header h1{
     font-size: 42px;
     line-height: 65px;
     padding-left: 100px;
 }
+
 #header li {
     display: inline
 }
@@ -45,6 +47,7 @@ body{
     font-size: 33px;
     line-height: 52px;
 }
+
 #content {
     height: 780px;
     padding-left: 24px;
@@ -58,7 +61,6 @@ body{
 #content h1{
     font-size: 42px;
     line-height: 55px;
-
 }
 
 #content h2{
